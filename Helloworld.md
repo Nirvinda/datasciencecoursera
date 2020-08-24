@@ -1,9 +1,4 @@
----
-title: "markdownfile"
-author: "me!!!!"
-date: "24/08/2020"
-output: html_document
----
+
 
 ## this is a markdown file
 
